@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTests", "XUnitTests\XUnitTests.csproj", "{E13CEDCB-6221-41AD-BA24-F5B2AD051F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eonics.AI.Core", "Eonics.AI.Core\Eonics.AI.Core.csproj", "{5FD85C40-EAE5-4A9C-89E0-06C0AFEF1DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13CEDCB-6221-41AD-BA24-F5B2AD051F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13CEDCB-6221-41AD-BA24-F5B2AD051F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13CEDCB-6221-41AD-BA24-F5B2AD051F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13CEDCB-6221-41AD-BA24-F5B2AD051F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD85C40-EAE5-4A9C-89E0-06C0AFEF1DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD85C40-EAE5-4A9C-89E0-06C0AFEF1DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD85C40-EAE5-4A9C-89E0-06C0AFEF1DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD85C40-EAE5-4A9C-89E0-06C0AFEF1DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
