@@ -16,6 +16,8 @@
   
 - Providing high-level context in a comment at the top of the file, followed by more detailed instructions in the form of comments and code, see: https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp
 
+- How to use GitHub Copilot: Prompts, tips, and use cases: https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/
+
 - Writing documentation (Mark down .md in repository) using Copilot: https://youtu.be/nmTMz8IXHbA
 
 
