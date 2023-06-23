@@ -11,7 +11,9 @@
 
 - AWS Code Whisperer
   - https://aws.amazon.com/codewhisperer
-    
+
+- More alternatives: https://www.tabnine.com/blog/github-copilot-alternatives/
+
 - Unit tests: https://dev.to/this-is-learning/copilot-chat-writes-unit-tests-for-you-1c82
   
 - Providing high-level context in a comment at the top of the file, followed by more detailed instructions in the form of comments and code, see: https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp
