@@ -1,4 +1,15 @@
-# AI-Hacknight Eonics Links
+# AI-Hacknight Eonics
+
+Experiment with the free extensions from Codeium by installing them in VS Code, links below:
+
+- VS Code:
+  - https://code.visualstudio.com/download
+
+- Codeium:
+  - https://codeium.com/vscode_tutorial
+  - https://codeium.com/chat
+    
+# Links
 
 - Copilot Chat:
   - https://github.com/features/preview/copilot-x
