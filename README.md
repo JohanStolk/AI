@@ -33,7 +33,8 @@ Experiment with the free extensions from Codeium by installing them in VS Code, 
 
 - Writing documentation (Mark down .md in repository) using Copilot: https://youtu.be/nmTMz8IXHbA
 
-
+- My Indie game: https://dicedpilot.com
+  
 # Example ChatGPT Prompts for Developers
 
 Prompt: “I want you to act as an experienced Developer. Please [insert your task here.]”
